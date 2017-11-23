@@ -1,1 +1,1 @@
-print("coś")
+print("łoś")
