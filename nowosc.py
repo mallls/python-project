@@ -1,0 +1,1 @@
+print("Pisze do Cb")
